@@ -1,3 +1,4 @@
+#print only the initals from first name, middle name and last name
 F=input("first name")
 M=input("second name")
 L=input("last name")
