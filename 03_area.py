@@ -1,3 +1,4 @@
+#area and circumference of a circle
 import math
 r=int(input())
 area=(math.pi)*r*r
